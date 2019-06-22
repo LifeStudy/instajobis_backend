@@ -24,4 +24,4 @@ app.use('/files', express.static(path.resolve(__dirname, '..', 'uploads', 'resiz
 
 app.use(require('./routes'));
 
-server.listen(9496);
+app.listen(process.env.PORT || 3000);
