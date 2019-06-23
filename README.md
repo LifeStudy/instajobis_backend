@@ -1,4 +1,4 @@
-# Feed_Instagram
+# Feed InstaJobis
     + Study React
 
 ## Requirements
